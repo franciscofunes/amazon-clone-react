@@ -8,7 +8,7 @@ This site was built using [Clever Programmer Tutorials](https://www.youtube.com/
 - [x] Set up React app using create-react-app
 - [x] Set up Firebase
 - [x] Set up React Router
-- [x]. Build the nav bar (header)
+- [x] Build the nav bar (header)
 - [x] Build the Banner
 - [x] Build the Product Component
 - [x] Introduce React Context API
